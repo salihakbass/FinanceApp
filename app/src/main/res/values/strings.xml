@@ -2,4 +2,13 @@
     <string name="app_name">Finance App</string>
     <string name="intro_text">The Best App to\n Manage Your\n Money</string>
     <string name="text_started">Get Started</string>
+    <string name="balance_text">Your Balance</string>
+    <string name="deposite_text">Deposite</string>
+    <string name="withdraw_text">Withdraw</string>
+    <string name="add_card_text">Add Card</string>
+    <string name="view_all_text">View all</string>
+    <string name="home_text">Home</string>
+    <string name="explorer_text">Explorer</string>
+    <string name="chart_text">Chart</string>
+    <string name="profile_text">Profile</string>
 </resources>
