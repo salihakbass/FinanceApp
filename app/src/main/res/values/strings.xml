@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Finance App</string>
+    <string name="intro_text">The Best App to\n Manage Your\n Money</string>
+    <string name="text_started">Get Started</string>
 </resources>
