@@ -1,4 +1,4 @@
-package com.salihakbas.financeapp
+package com.salihakbas.financeapp.activity
 
 import android.content.Intent
 import android.os.Bundle
@@ -19,7 +19,7 @@ class IntroActivity : AppCompatActivity() {
         )
 
         binding.btnStart.setOnClickListener {
-            startActivity(Intent(this,MainActivity::class.java))
+            startActivity(Intent(this, MainActivity::class.java))
         }
 
     }
