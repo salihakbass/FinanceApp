@@ -11,4 +11,11 @@
     <string name="explorer_text">Explorer</string>
     <string name="chart_text">Chart</string>
     <string name="profile_text">Profile</string>
+    <string name="total_balance_text">Total Balance</string>
+    <string name="my_budget_text">My budget</string>
+    <string name="edit_text">Edit</string>
+    <string name="income_text">income</string>
+    <string name="expense_text">Expense</string>
+    <string name="total_text">Total</string>
+    <string name="monthly_report_text">Monthly Report</string>
 </resources>
